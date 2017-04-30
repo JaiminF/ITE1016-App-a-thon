@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_852655b65b3bb3eb688418be21aca0ac10e1e367/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_66be5a9bc39afae817415ddc69215c37f860affb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_aec0659b2e366c7b733a4321e6f1dd69e604b239/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_c3f7d39c959e9d415939f257712cf1dcf13108d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f98feefe6992d54af117c4214523d3e3ed4a5560/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_d50beeebaf46792902d77cf77b4c1b3206b6210d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ab54460f56729562de7a61ec47ea5169bffecfb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0c80e6baf7973ed8d42eecf6c49dbc1a27d01897">
+        <dex dex="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ac01f7e0b702f392fe1e1b18fdda1a0a08ff9ca1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7efb5aaad02b653c7973021ed2f185524097e3f">
+        <dex dex="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_723df4e980fc6d56d40ae36be86499e5fc0b3f63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c95b692e8cf999f5d2beb8beb11fe42e91e296a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9bb0ff83ced4c2f7122ad9bac74c697b80f779e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_1ff019e12e88d9a151f6b6479d190415e79b6e99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JaiminFojdar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_91babd6f45e3afc910082342461393c6b8c78bd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_e37ec37ad1283f5416b62deacc7b4b0ae3b9f1d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_47715f9c6cd3f5b309d94aa0a5d4effbe0e9e3a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_66cb7d086d7f6ae520b9f8bbaf8c08b8e7e7d5fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/JaiminFojdar/Documents/Projects/NaturalDisasterReliefApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_51a31402ae9db4db03e77f59bea02ef5493af477/classes.dex" />
+    </item>
+
+</items>

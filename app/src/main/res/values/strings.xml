@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">NaturalDisasterReliefApp</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">24/7 Helplines</string>
+    <string name="slide_1_desc">One touch access to emergency helplines!</string>
+
+    <string name="slide_2_title">Casualties/Safehouses</string>
+    <string name="slide_2_desc">Update casualties and also find safehouses in affected areas!</string>
+
+    <string name="slide_3_title">Affected areas</string>
+    <string name="slide_3_desc">Find worst hit areas!</string>
+
+    <string name="slide_4_title"></string>
+    <string name="slide_4_desc">One touch away from relief help!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="title_activity_welcome_slide1">welcome_slide1</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_welcome_slide2">welcome_slide2</string>
+
+    <string name="title_activity_welcome_slide3">welcome_slide3</string>
+
+    <string name="title_activity_welcome_slide4">welcome_slide4</string>
+</resources>
